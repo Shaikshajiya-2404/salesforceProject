@@ -3,6 +3,8 @@ public with sharing class FisrtVScode {
         System.debug('hello');
         System.debug('hey');
         System.debug('Bye');
+        System.debug('Good morning');
+
 
     }
 }
